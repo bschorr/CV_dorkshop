@@ -1,0 +1,7 @@
+Nice read:
+http://www.flong.com/texts/essays/essay_cvad/
+
+Other links:
+http://docs.opencv.org/
+https://github.com/kylemcdonald/ofxCv
+https://github.com/gameoverhack/ofxOpenNI
