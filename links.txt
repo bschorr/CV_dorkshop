@@ -5,3 +5,5 @@ Other links:
 http://docs.opencv.org/
 https://github.com/kylemcdonald/ofxCv
 https://github.com/gameoverhack/ofxOpenNI
+https://github.com/kylemcdonald/ofxFaceTracker
+http://code.google.com/p/lkb-kinect-bundle/
