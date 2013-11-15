@@ -1,9 +1,19 @@
 Nice read:
 http://www.flong.com/texts/essays/essay_cvad/
-
-Other links:
 http://docs.opencv.org/
+
+Good addons to have:
 https://github.com/kylemcdonald/ofxCv
 https://github.com/gameoverhack/ofxOpenNI
 https://github.com/kylemcdonald/ofxFaceTracker
+https://github.com/paulobarcelos/ofxMacamPs3Eye
+https://github.com/patriciogonzalezvivo/ofxTuio
+
+Download some TUIO examples (and learn more about it):
+http://www.tuio.org/
+
+Some nice TUIO sender:
 http://code.google.com/p/lkb-kinect-bundle/
+
+Walkthrough for installing openNI and Nite in OSX 10.8:
+http://decyborg.wordpress.com/2013/01/19/kinect-on-os-x-10-8-and-processing/
